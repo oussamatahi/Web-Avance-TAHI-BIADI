@@ -1,0 +1,5 @@
+{
+  "jwtPrivateKey": "unsecureKey",
+  "db": "mongodb://localhost/biadi-tahi-app",
+  "port": "3900"
+}
